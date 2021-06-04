@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SpheredBongo
+- 👀 I’m interested in working on fun and random python projects
+- 🌱 I’m currently learning python
+- 📫 How to reach me, Discord: SpheredBongo#4947
