@@ -1,0 +1,29 @@
+Things to maybe add?
+
+Skyblock like game?
+- Upgradeable Generators (Multiple)
+- Money (Maybe later can be converted into gold)
+
+Skills?
+- Better odds at winning (Depending on level)
+- FutureSight = Abilty to see next card before picking up (Blackjack) (Rare)
+
+Shop Items
+- EXP boosts (Permanent and Temp, perm more expensive)
+- Gold Boosts
+- Better Odds in games (Booster)
+- More Games?
+
+Prestige?
+
+Leaderboards
+- Shop rewards?
+
+Stats
+- Wins, Loses, Games played, etc
+
+Ability to view all inventory and active boosters
+
+Admin Functions
+- Access user log
+- view user history 
